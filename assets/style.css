@@ -14,7 +14,8 @@ body.dark {
     text-align: center;
     align-items: center;
     flex-grow: 1;
-    height: 100%;
+    margin: 0 auto;
+    
 }
 
 .header {
@@ -82,6 +83,7 @@ body.dark .tile.correct {
 }
 
 .keyboard {
+    padding-top: 10px;
     flex: 3;
 }
 
